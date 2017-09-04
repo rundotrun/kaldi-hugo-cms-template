@@ -3,7 +3,7 @@ title: Our Coffee
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
-heading: What we offer
+heading: What we offer asdfa
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -98,5 +98,7 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '?'
+    - {}
 ---
+
 
